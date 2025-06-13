@@ -1,0 +1,12 @@
+{
+  "network": "BSC Mainnet",
+  "contractName": "SWFToken",
+  "deployer": "0xEcDdb7dFF2f61E1caC7AC767337A38E1aD851eD6",
+  "contractAddress": "0x36E5E1D51eC998A809AA066Cad73D800aF833735",
+  "compilerVersion": "v0.8.20+commit.a1b79de6",
+  "optimizationUsed": true,
+  "runs": 200,
+  "sourceCodeFlattened": true,
+  "verifiedOnBscScan": true,
+  "dateDeployed": "2025-06-13T00:00:00Z"
+}
