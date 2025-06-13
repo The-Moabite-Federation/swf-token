@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./file_0000000044fc61fdbe7fbb0ef22c31b4.png" alt="SWFToken Banner">
+</p> 
+
+
 [![BscScan Verified](https://img.shields.io/badge/Verified-BscScan-blue)](https://bscscan.com/address/0x36E5E1D51eC998A809AA066Cad73D800aF833735)
 [![Solidity Version](https://img.shields.io/badge/Solidity-0.8.20-brightgreen.svg)](https://docs.soliditylang.org/en/v0.8.20/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
