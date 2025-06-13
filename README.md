@@ -12,6 +12,70 @@
 [![Gold-Backed](https://img.shields.io/badge/Backed%20By-Kinesis%20Gold-gold)](https://kinesis.money/)
 
 
-# swf-token
-Smart contract repository for the Sovran Wealth Fund — a gold-backed, tokenized asset system for real estate, land, and decentralized finance.
 
+<p align="center">
+  <img src="https://github.com/The-Moabite-Federation/swf-token/raw/main/Images/SWFToken_Official_Image.png" width="300" alt="Sovran Wealth Fund Token Logo"/>
+</p>
+
+<h1 align="center">Sovran Wealth Fund Token (SWF)</h1>
+
+<p align="center">
+  <strong>Official BSC Smart Contract for SWF Token</strong><br>
+  <em>Gold-Backed | Real Estate Tokenized | Upgradeable ERC20</em>
+</p>
+
+---
+
+## 🔹 Overview
+
+The **Sovran Wealth Fund Token (SWF)** is a next-generation digital asset deployed on **Binance Smart Chain (BSC)** that fuses real estate tokenization, gold-backed certificates via **Kinesis**, and modular upgradeability. SWF is designed to empower decentralized wealth building through sovereignty, security, and shared value.
+
+---
+
+## 🚀 Deployed Contract
+
+- **Network**: Binance Smart Chain (Mainnet)
+- **Contract Address**: [`0x36E5E1D51eC998A809AA066Cad73D800aF833735`](https://bscscan.com/address/0x36E5E1D51eC998A809AA066Cad73D800aF833735)
+- **Compiler Version**: `v0.8.20`
+- **Optimization**: Enabled (`200 runs`)
+
+---
+
+## 🔐 Key Features
+
+| Feature                         | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 🔁 Upgradeable                 | Fully proxy-compatible and upgradeable via OpenZeppelin's UUPS pattern      |
+| 🏠 Real Estate Tokenization   | Integrated `RealEstateAsset` struct to tokenize physical property metadata |
+| 🪙 Kinesis Gold Integration    | Certifies ownership with `GoldCertificate` struct tied to physical grams   |
+| 🪂 Airdrop with MerkleProof    | Claim-based airdrop mechanism for whitelisted participants                 |
+| 💥 Burnable                   | Holders can burn tokens, reducing supply                                    |
+| 📥 Mintable                   | Only the owner can mint new SWF tokens                                      |
+| 🛡️ Ownable & Secure           | OpenZeppelin `Ownable`, `Context`, and `Address` safeguards applied         |
+
+---
+
+## 🧱 Struct Definitions
+
+### Real Estate Backing
+
+```solidity
+struct RealEstateAsset {
+  string propertyId;
+  string location;
+  uint256 valuation;
+  uint256 backingTokenId;
+}
+
+struct GoldCertificate {
+  uint256 grams;
+  string certificateId;
+}
+
+
+## 👤 Author & Maintainer
+
+**Hasan Sa’Raam Bey Al-Moabiyah**  
+Grand Vizier of The Moabite Federation PMA  
+Lead Developer of the Sovran Wealth Fund Ecosystem  
+📧 akiliaggroup@gmail.com
