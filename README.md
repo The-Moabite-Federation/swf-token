@@ -8,7 +8,7 @@
   <strong>Official BSC Smart Contract for SWF Token</strong><br>
   <em>Gold-Backed | Real Estate Tokenized | Upgradeable ERC20</em>
 </p>
----
+
 
 🔹 Overview
 
@@ -36,11 +36,17 @@ Optimization: Enabled (200 runs)
 Feature	Description
 
 🔁 Upgradeable	Fully proxy-compatible and upgradeable via OpenZeppelin's UUPS pattern
+
 🏠 Real Estate Tokenization	Integrated RealEstateAsset struct to tokenize physical property metadata
+
 🪙 Kinesis Gold Integration	Certifies ownership with GoldCertificate struct tied to physical grams
+
 🪂 Airdrop with MerkleProof	Claim-based airdrop mechanism for whitelisted participants
+
 💥 Burnable	Holders can burn tokens, reducing supply
+
 📥 Mintable	Only the owner can mint new SWF tokens
+
 🛡️ Ownable & Secure	OpenZeppelin Ownable, Context, and Address safeguards applied
 
 
@@ -73,20 +79,35 @@ The Sovran Wealth Fund (SWF) token follows a unique 16-wallet architecture calle
 Wallet Name	Allocation (SWF)	Function / Purpose
 
 🛡️ Owner Reserve	10,001,000	Owner-held strategic reserve
+
 🏠 Real Estate Tokenization	1,000,000,000	Backing tokenized real estate asset classes
+
 🪙 Gold Cert Backing	1,000,000,000	Tokenized gold reserves via Kinesis
+
 🌊 LP Reserve	1,000,000,000	Liquidity provision & farming pools
+
 🎁 Airdrop Engine	500,000,000	MerkleProof-based airdrops & community incentives
+
 🏛️ DAO Treasury	1,000,000,000	Governance funding, grants, staking rewards
+
 👨‍💻 Dev Vault	500,000,000	Developer operations, upgrades, bug bounties
+
 📢 Marketing Engine	500,000,000	Marketing, sponsorships, influencer partnerships
+
 🌱 Community Builder Fund	500,000,000	Ecosystem growth, bounty rewards, social initiatives
+
 📚 Education Rewards Vault	500,000,000	Learn-to-earn platform rewards
+
 🚨 Emergency Stability Fund	500,000,000	Emergency liquidity provisions and asset defense
+
 🪙 Public Sale Treasury	1,000,000,000	Reserved for future IDO/ICO/launchpad events
+
 🌉 Bridge Reserve Vault	500,000,000	Cross-chain bridge liquidity (ETH, Polygon, etc.)
+
 🏢 Institutional Allocation	500,000,000	Reserved for VCs, DAOs, institutional onboarding
+
 ⚙️ Web3 Utility Pool	500,000,000	Token gas subsidies, fee offsets for DApp use
+
 🔥 Burner & Deflation Vault	500,000,000	Burn schedule, deflationary operations, buyback triggers
 
 
@@ -103,5 +124,7 @@ Network: Binance Smart Chain (BSC)
 Hasan Sa’Raam Bey Al-Moabiyah
 Grand Vizier of The Moabite Federation PMA
 Lead Developer of the Sovran Wealth Fund Ecosystem
+
 📧 akiliaggroup@gmail.com
 
+🌐 www.SovranWealthFund.org
