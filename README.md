@@ -3,10 +3,10 @@
 </p> 
 
 
-[![BscScan Verified](https://img.shields.io/badge/Verified-BscScan-blue)](https://bscscan.com/address/0x36E5E1D51eC998A809AA066Cad73D800aF833735)
+[![BscScan Verified](https://img.shields.io/badge/Verified-BscScan-blue)](https://bscscan.com/address/0x83E17aeB148d9b4b7Be0Be7C87dd73531a5a5738)
 [![Solidity Version](https://img.shields.io/badge/Solidity-0.8.20-brightgreen.svg)](https://docs.soliditylang.org/en/v0.8.20/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Live](https://img.shields.io/badge/Status-Live-brightgreen)](https://bscscan.com/address/0x36E5E1D51eC998A809AA066Cad73D800aF833735)
+[![Status: Live](https://img.shields.io/badge/Status-Live-brightgreen)](https://bscscan.com/address/0x83E17aeB148d9b4b7Be0Be7C87dd73531a5a5738)
 [![Deployed on BSC](https://img.shields.io/badge/Network-BSC%20Mainnet-yellowgreen)](https://bscscan.com)
 [![Real Estate Tokenization](https://img.shields.io/badge/Asset%20Class-Real%20Estate-blueviolet)](https://github.com/The-Moabite-Federation/swf-token)
 [![Gold-Backed](https://img.shields.io/badge/Backed%20By-Kinesis%20Gold-gold)](https://kinesis.money/)
@@ -35,7 +35,7 @@ The **Sovran Wealth Fund Token (SWF)** is a next-generation digital asset deploy
 ## 🚀 Deployed Contract
 
 - **Network**: Binance Smart Chain (Mainnet)
-- **Contract Address**: [`0x36E5E1D51eC998A809AA066Cad73D800aF833735`](https://bscscan.com/address/0x36E5E1D51eC998A809AA066Cad73D800aF833735)
+- **Contract Address**: [`0x83E17aeB148d9b4b7Be0Be7C87dd73531a5a5738`](https://bscscan.com/token/0x83E17aeB148d9b4b7Be0Be7C87dd73531a5a5738)
 - **Compiler Version**: `v0.8.20`
 - **Optimization**: Enabled (`200 runs`)
 
