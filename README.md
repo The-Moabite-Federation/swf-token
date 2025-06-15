@@ -72,7 +72,7 @@ struct GoldCertificate {
 
 ---
 
-📊 Token Allocation — Solo Method (16 Wallet Strategy)
+📊 Token Allocation — Solo Method (17 Wallet Strategy)
 
 The Sovran Wealth Fund (SWF) token follows a unique 16-wallet architecture called the Solo Method. Each wallet has a designated role and allocation from the 10,001,000,000 SWF total supply.
 
