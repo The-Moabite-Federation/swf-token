@@ -77,43 +77,32 @@ struct GoldCertificate {
 The Sovran Wealth Fund (SWF) token follows a unique 16-wallet architecture called the Solo Method. Each wallet has a designated role and allocation from the 10,001,000,000 SWF total supply.
 
 Wallet Name	Allocation (SWF)	Function / Purpose
+| 🏦 Wallet Name                | 🧾 Allocation (SWF)      | 🎯 Purpose                                                                 |
+|------------------------------|--------------------------|---------------------------------------------------------------------------|
+| 👑 Owner Reserve             | 620,065,000 SWF          | Founder's reserve + remaining unallocated tokens                         |
+| 🏠 Real Estate Vault         | 1,500,150,000 SWF        | Tokenized physical property backing                                      |
+| 🪙 Gold Cert Backing         | 2,900,290,000 SWF        | Backing by gold via Kinesis                                              |
+| 🌊 Liquidity Deployment      | 1,000,100,000 SWF        | Liquidity pools, swaps, and market-making                                |
+| 🎁 Staking Reward Vault      | 1,000,100,000 SWF        | LP staking rewards, long-term holder incentives                          |
+| 📡 Community Airdrop         | 500,050,000 SWF          | Merkle airdrops & whitelist distributions                                |
+| 💻 Dev Fund                  | 500,050,000 SWF          | Core dev bounties, contract upgrades, QA                                 |
+| 📣 Marketing & Partnerships  | 500,050,000 SWF          | Brand campaigns, sponsorships, and influencer collabs                    |
+| 🏛️ Treasury Reserve          | 500,050,000 SWF          | Moabite Federation sovereign treasury                                    |
+| 🧱 Foundation Wallet         | 400,040,000 SWF          | Operations, compliance, legal defense                                    |
+| 🗳️ DAO Governance Vault      | 250,025,000 SWF          | On-chain proposal voting rewards                                         |
+| 🚰 Faucet Reserve            | 200,020,000 SWF          | Incentivized faucets and onboarding portals                              |
+| 🖼️ NFT/Asset Tokenization    | 50,005,000 SWF           | NFT utilities and tokenized real-world asset platforms                   |
+| 🛍️ Merchant Onboarding       | 50,005,000 SWF           | Merchant adoption and commerce incentives                                |
+| 🚀 SGCF – Builder Grants      | 10,000,000 SWF           | Grants to devs & builders of Sovran ecosystem                            |
+| 💹 SGCF – Stability Support   | 10,000,000 SWF           | LP cushion during volatility and buybacks                                |
+| 🌍 SGCF – Community Outreach  | 10,000,000 SWF           | Ambassador programs, staking contests, referral rewards                  |
 
-🛡️ Owner Reserve	10,001,000	Owner-held strategic reserve
-
-🏠 Real Estate Tokenization	1,000,000,000	Backing tokenized real estate asset classes
-
-🪙 Gold Cert Backing	1,000,000,000	Tokenized gold reserves via Kinesis
-
-🌊 LP Reserve	1,000,000,000	Liquidity provision & farming pools
-
-🎁 Airdrop Engine	500,000,000	MerkleProof-based airdrops & community incentives
-
-🏛️ DAO Treasury	1,000,000,000	Governance funding, grants, staking rewards
-
-👨‍💻 Dev Vault	500,000,000	Developer operations, upgrades, bug bounties
-
-📢 Marketing Engine	500,000,000	Marketing, sponsorships, influencer partnerships
-
-🌱 Community Builder Fund	500,000,000	Ecosystem growth, bounty rewards, social initiatives
-
-📚 Education Rewards Vault	500,000,000	Learn-to-earn platform rewards
-
-🚨 Emergency Stability Fund	500,000,000	Emergency liquidity provisions and asset defense
-
-🪙 Public Sale Treasury	1,000,000,000	Reserved for future IDO/ICO/launchpad events
-
-🌉 Bridge Reserve Vault	500,000,000	Cross-chain bridge liquidity (ETH, Polygon, etc.)
-
-🏢 Institutional Allocation	500,000,000	Reserved for VCs, DAOs, institutional onboarding
-
-⚙️ Web3 Utility Pool	500,000,000	Token gas subsidies, fee offsets for DApp use
-
-🔥 Burner & Deflation Vault	500,000,000	Burn schedule, deflationary operations, buyback triggers
+| **🧾 Total Supply**           | **10,001,000,000 SWF**    | 100% structured across all wallets                                       |
 
 
-Total Supply: 10,001,000,000 SWF
 Token Contract: 0x83E17aeB148d9b4b7Be0Be7C87dd73531a5a5738
-Decimals: 18
+(Decimals: 18)
+
 Network: Binance Smart Chain (BSC)
 
 
